@@ -1,0 +1,10 @@
+Deger=int(input("1-3 arasında bir deger giriniz:"))
+
+if Deger==1:
+    print("Mercedes")
+elif Deger==2:
+    print("Ferrari")
+elif Deger==3:
+    print("Reno")
+else:
+    print("Geçerli bir değer giriniz")
